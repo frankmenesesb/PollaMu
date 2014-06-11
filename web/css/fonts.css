@@ -1,0 +1,20 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 29/05/2014, 10:03:09 AM
+    Author     : fmoctezuma
+*/
+
+@font-face {
+    font-family: 'pagode';
+    src: url('../fonts/fontfile-pagode-webfont.eot');
+    src: url('../fonts/fontfile-pagode-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/fontfile-pagode-webfont.woff') format('woff'),
+         url('../fonts/fontfile-pagode-webfont.ttf') format('truetype'),
+         url('../fonts/fontfile-pagode-webfont.svg#pagode') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}

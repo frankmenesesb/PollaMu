@@ -1,0 +1,91 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 29/05/2014, 06:03:28 PM
+    Author     : fmoctezuma
+*/
+.flag{
+    width: 70px;
+    height: 60px;
+    display: inline-block;
+    font-size: .7em;
+    vertical-align: middle;
+    
+}
+.flag_alg{background: url("../img/flags/alg.png") center bottom no-repeat !important ;}
+.flag_alg:before{content: "Algeria"}
+.flag_arg{background: url("../img/flags/arg.png") center bottom no-repeat !important ;}
+.flag_arg:before{content: "Argentina"}
+.flag_aus{background: url("../img/flags/aus.png") center bottom no-repeat !important ;}
+.flag_aus:before{content: "Australia"}
+.flag_bel{background: url("../img/flags/bel.png") center bottom no-repeat !important ;}
+.flag_bel:before{content: "Belgica"}
+.flag_bih{background: url("../img/flags/bih.png") center bottom no-repeat !important ;}
+.flag_bih:before{content: "Bosnia"}
+.flag_bra{background: url("../img/flags/bra.png") center bottom no-repeat !important ;}
+.flag_bih:before{content: "Bosnia"}
+.flag_chi{background: url("../img/flags/chi.png") center bottom no-repeat !important ;}
+.flag_bih:before{content: "Bosnia"}
+.flag_civ{background: url("../img/flags/civ.png") center bottom no-repeat !important ;}
+.flag_civ:before{content: "Costa de Marfil"}
+.flag_cmr{background: url("../img/flags/cmr.png") center bottom no-repeat !important ;}
+.flag_cmr:before{content: "Camerun"}
+.flag_col{background: url("../img/flags/col.png") center bottom no-repeat !important ;}
+.flag_col:before{content: "Colombia"}
+.flag_crc{background: url("../img/flags/crc.png") center bottom no-repeat !important ;}
+.flag_crc:before{content: "Costa Rica"}
+.flag_cro{background: url("../img/flags/cro.png") center bottom no-repeat !important ;}
+.flag_cro:before{content: "Croacia"}
+.flag_ecu{background: url("../img/flags/ecu.png") center bottom no-repeat !important ;}
+.flag_ecu:before{content: "Ecuador"}
+.flag_eng{background: url("../img/flags/eng.png") center bottom no-repeat !important ;}
+.flag_eng:before{content: "Inglaterra"}
+.flag_esp{background: url("../img/flags/esp.png") center bottom no-repeat !important ;}
+.flag_esp:before{content: "España"}
+.flag_fra{background: url("../img/flags/fra.png") center bottom no-repeat !important ;}
+.flag_fra:before{content: "Francia"}
+.flag_ger{background: url("../img/flags/ger.png") center bottom no-repeat !important ;}
+.flag_ger:before{content: "Alemania"}
+.flag_gha{background: url("../img/flags/gha.png") center bottom no-repeat !important ;}
+.flag_gha:before{content: "Ghana"}
+.flag_gre{background: url("../img/flags/gre.png") center bottom no-repeat !important ;}
+.flag_gre:before{content: "Grecia"}
+.flag_hon{background: url("../img/flags/hon.png") center bottom no-repeat !important ;}
+.flag_hon:before{content: "Honduras"}
+.flag_irn{background: url("../img/flags/irn.png") center bottom no-repeat !important ;}
+.flag_irn:before{content: "Iran"}
+.flag_ita{background: url("../img/flags/ita.png") center bottom no-repeat !important ;}
+.flag_ita:before{content: "Italia"}
+.flag_jpn{background: url("../img/flags/jpn.png") center bottom no-repeat !important ;}
+.flag_jpn:before{content: "Japon"}
+.flag_kor{background: url("../img/flags/kor.png") center bottom no-repeat !important ;}
+.flag_kor:before{content: "Korea"}
+.flag_mex{background: url("../img/flags/mex.png") center bottom no-repeat !important ;}
+.flag_mex:before{content: "Mexico"}
+.flag_ned{background: url("../img/flags/ned.png") center bottom no-repeat !important ;}
+.flag_ned:before{content: "Paises Bajos"}
+.flag_nga{background: url("../img/flags/nga.png") center bottom no-repeat !important ;}
+.flag_nga:before{content: "Nigeria"}
+.flag_por{background: url("../img/flags/por.png") center bottom no-repeat !important ;}
+.flag_por:before{content: "Portugal"}
+.flag_rus{background: url("../img/flags/rus.png") center bottom no-repeat !important ;}
+.flag_rus:before{content: "Rusia"}
+.flag_sui{background: url("../img/flags/sui.png") center bottom no-repeat !important ;}
+.flag_sui:before{content: "Suiza"}
+.flag_uru{background: url("../img/flags/uru.png") center bottom no-repeat !important ;}
+.flag_uru:before{content: "Uruguay"}
+.flag_usa{background: url("../img/flags/usa.png") center bottom no-repeat !important ;}
+.flag_usa:before{content: "EEUU"}
+
+.flag_xs{
+	background-size: contain !important;
+	display: inline-block;
+	font-size: 0;
+	height: 20px !important;
+	margin: 0;
+    vertical-align: middle;
+    width: 28px !important;
+}

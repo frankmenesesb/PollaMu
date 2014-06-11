@@ -1,0 +1,157 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 29/05/2014, 09:52:03 AM
+    Author     : fmoctezuma
+*/
+*{
+    margin: 0;
+}
+body{
+    background: rgba(0,0,0,.3);
+}
+h4,h5,h6{
+    box-sizing: border-box;
+    display: inline-block;
+    margin: 0;
+    width: auto;
+}
+a{
+    color: white;
+    text-decoration: none;
+}
+a:visited{
+    color: white;
+}
+nav{
+    border: 1px solid transparent;
+}
+.container {
+    background: rgba(0,190,51,.4);
+    color: white;
+    font-size: 1em;
+    margin: 0 auto;
+    max-width: 1000px;
+}
+header{
+    box-sizing: border-box;
+    display: inline-block;
+    font-family: pagode,Arial,sans-serif;
+    text-align: center;
+    width: 100%
+}
+header .header img{
+    box-sizing: border-box;
+    display: inline-block;
+    margin: 0;
+    width: 20%; 
+}
+header .header h1{
+    box-sizing: border-box;
+    display: inline-block;
+    margin: 0;
+    width: auto;
+    height: auto;
+} 
+
+header .menu{
+    background: rgba(0,125,255,.5);
+}
+nav ul {
+    font-size: 0;
+    padding: 0;
+}
+header .menu nav ul li{
+    box-sizing:border-box;
+    background: rgba(0,0,0,.5);
+    display: inline-block;
+    font-size: 16px;
+    height: 50px;
+    text-align: center;
+    vertical-align: top;
+    width: 25%;
+}
+nav ul li a{
+    display: block;
+    line-height: 50px;
+}
+nav ul li a:hover{
+    background: rgba(0,190,51,.2);
+    border-radius: 5px;
+}
+
+.contenido{
+    background: rgba(255,255,210,0.5);
+    font-family: pagode,Arial;
+    text-align: center;
+    
+}
+.contenido h2{
+    padding: 10px 0 10px 0;
+}
+
+.contenido .partido{
+    display: inline-block;
+}
+
+.contenido .partido h1{
+    font-size: 3.5em;
+}
+.button{
+    margin: 10px 10%;
+    padding: 10px;
+    border-radius: 50px;
+    background: rgba(0,109,255,.8);
+}
+.button:hover{
+    background: rgba(0,0,255,.8);
+}
+.clasificacion{
+    margin: 0;
+    height: auto;
+    padding: 15px 0;
+}
+.clasificacion h4{
+    display: block;
+    text-align: left;
+    padding: 0 10px;
+}
+.grupos{
+    color: rgba(0,0,0,.7);
+}
+.grupo{
+    background: rgba(255,255,255,.5);
+    display: inline-block;
+    margin: 10px 10px;
+    height: 200px;
+    width: 200px;
+    vertical-align: top;
+    
+}
+.grupos div a{
+    color: rgba(0, 0, 0, 0.5);
+    float: right;
+    padding: 10px;
+}
+.grupos nav ul li{
+    box-sizing:border-box;
+    background: rgba(0,0,0,.5);
+    display: inline-block;
+    font-size: 16px;
+    height: 50px;
+    text-align: center;
+    vertical-align: top;
+    width: 25%;
+}
+
+
+footer{
+    font-family: pagode,Arial;
+    padding: 20px;
+}
+.right {
+    float: right;
+}
